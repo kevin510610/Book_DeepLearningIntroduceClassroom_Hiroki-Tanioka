@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/Users/yukaizhuo/opt/anaconda3/envs/datasci/bin/python",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "local"
 }
