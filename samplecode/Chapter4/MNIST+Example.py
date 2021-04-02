@@ -10,7 +10,7 @@ from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation
 from keras.optimizers import RMSprop
 from keras.callbacks import EarlyStopping, CSVLogger
-%matplotlib inline
+#%matplotlib inline
 import matplotlib.pyplot as plt
 
 # バッチサイズ、クラス数、エポック数を定義
